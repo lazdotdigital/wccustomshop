@@ -1,0 +1,25 @@
+.pedal-select-page {
+  padding: 20px;
+}
+
+.pedal-select-page__pedal-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.pedal-select-page__pedal-text {
+  font-weight: bold;
+  margin-top: 25px;
+  margin-bottom: 12.5px;
+  font-style: italic;
+}
+
+.pedal-select-page__pedal {
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 00px 15px;
+  cursor: pointer;
+}

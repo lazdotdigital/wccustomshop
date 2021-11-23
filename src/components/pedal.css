@@ -1,0 +1,17 @@
+.pedal {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.pedal__mod,
+.pedal__led {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.pedal__front {
+  position: relative;
+  background-size: cover;
+}
